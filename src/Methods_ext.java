@@ -1,4 +1,7 @@
 public class Methods_ext {
+	public void dev() {
+		System.out.println("Gone");
+	}
 //	First method sample
 	public void FirstActivity(String name) {
 	System.out.println("Hello "+ name);	

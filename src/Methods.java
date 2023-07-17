@@ -13,6 +13,7 @@ public class Methods{
 		CeObject.FirstActivity(alias);
 		CeObject.SecondActivity(id);
 		CeObject.TActivity(0);
+		CeObject.dev();
 		
 	}
 }
