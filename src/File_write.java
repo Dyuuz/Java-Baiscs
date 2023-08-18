@@ -4,7 +4,7 @@ import java.io.IOException;
 public class File_write {
 	public static void main(String []args) {
 		try {
-		FileWriter write = new FileWriter("C:\\Dyuuz\\Notes\\PearlAviz.txt");
+		FileWriter write = new FileWriter("C:\\Dyuuz\\Notes\\filename.txt");
 		String Para1 = "The quote entails the major importance of resilience regardless of one's result "
 				+ "on consistent hardwork.\n";
 		String Para2 = "Everyday every and day of life, hardwork always payoff compared to just settling "

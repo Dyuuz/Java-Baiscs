@@ -6,6 +6,7 @@
 /ArrayList.class
 /ArrayListLoop.class
 /ArrayListSort.class
+/ArrayOps.class
 /ArrayRandomIndexValues.class
 /ArraySum.class
 /Array_in_loop.class
@@ -21,7 +22,6 @@
 /Date.class
 /DateTime.class
 /DateTimeFormatter.class
-/Dog.class
 /Encapsulation_Main.class
 /Encapsulation_Obj.class
 /Encapsulation_Obj2.class
@@ -35,6 +35,7 @@
 /Enum_Ifelse.class
 /Exception_throw.class
 /Exceptions.class
+/Fibonacci_Series.class
 /File_DeleteFolder.class
 /File_Deletefiles.class
 /File_Read.class
@@ -65,12 +66,18 @@
 /InterfaceMultiple_Main.class
 /Iterataor.class
 /IteratorRem.class
+/JavaSwing/
 /Lambda.class
 /LinkedList.class
 /LinkedListMethod.class
 /LinkedListSort.class
 /LinkedList_Ifelse.class
 /Main.class
+/Page.class
+/Sub.class
+/Super.class
+/subClass.class
+/Dog.class
 /MathClass.class
 /MethodOverloading.class
 /MethodParams.class
@@ -80,10 +87,11 @@
 /Methods_ext.class
 /Nested_ifelse.class
 /New.class
-/Page.class
 /Pig.class
 /Polymorphism.class
 /PolymorphismMain.class
+/PopupMEnu$1.class
+/PopupMEnu.class
 /Rabbit.class
 /Random_nums.class
 /Recursion.class
@@ -94,8 +102,6 @@
 /StringCount.class
 /StringFunction.class
 /StringReverse.class
-/Sub.class
-/Super.class
 /Time.class
 /UserCustom_Variable.class
 /Wrapper_class.class
@@ -105,7 +111,6 @@
 /lambda_exp_params.class
 /lambda_params.class
 /lambda_var.class
-/subClass.class
 /test.class
 /test_method.class
 /while_loop.class

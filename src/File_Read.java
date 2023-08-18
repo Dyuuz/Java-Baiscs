@@ -14,8 +14,8 @@ public class File_Read {
 		}
 		
 	}catch (IOException e) {
-		System.out.println();
-		e.printStackTrace();
+		System.out.println(e);
+//		e.printStackTrace();
 
 	}
 	
